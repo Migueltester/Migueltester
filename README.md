@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">A passionate DevOps & Platform Engineering enthusiast.</h3>
+<center>
+  <img src="miguel.png" alt="Descripción" width="1200"/>
+</center>
 
 
 
